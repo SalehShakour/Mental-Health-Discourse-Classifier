@@ -12,7 +12,7 @@ Trained a lightweight NLP classifier to categorize Reddit posts about mental hea
   - Anxiety
   - Stress
   - Bipolar Disorder
-  - PTSD
+  - Personality Disorder
 
 ## ⚙️ Tuning & Performance
 Hyperparameter tuning with Optuna was performed to improve upon a baseline model, yielding substantial gains in accuracy, efficiency, and resource utilization.
